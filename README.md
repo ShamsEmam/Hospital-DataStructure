@@ -10,4 +10,4 @@ This is a Data Structure project designed to manage a hospital system efficientl
 - Provide a simple and user-friendly interface (if applicable).
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository:Hospital-DataStructure
